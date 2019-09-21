@@ -1,0 +1,10 @@
+.imageslider{padding-left:10px;}
+.imageslider img{padding-left:30px;}
+.listofpanel{}
+.customDiv{padding:2px;background:#DAB776;width:200px;height:260px;margin-top:0px;text-align:center;margin-left:160px;border:12px solid #4E2614;border-radius:10px;}
+.customDiv h2{color:#492113;font-weight:bold;margin-bottom:5px;}
+.customDiv span{font-size:30px;color:#008000;}
+.customDiv h1{color:#492113;}
+.customDiv h3 a{text-decoration:none;padding:3px;background:#492113;width:200px;text-align:center;border:2px solid #4E2614;font-size:16px;font-weight:bold;color:white;border-radius:3px;border:2px solid #4E2614;}
+.customDiv h3 a:hover{background-color:#A52A2A;border-radius:5px;color:white;}
+

@@ -1,0 +1,84 @@
+.checkfirst{background-color:#C8A067;}
+.customDiv{padding:3px;background-color:#DBB676;width:270px;height:80px;border:4px solid #4E2614;}
+.customDiv h3{padding:5px;text-align:center;margin-top:20px;}
+.customDiv a{text-decoration:none;font-weight:bold;color:white;}
+.customDiv a:hover{border-bottom:1px solid white;}
+.block{background:#FDE3B5;}
+.product-agileinfon-top{padding:10px;}
+.product-agileinfon-top p{text-align:justify;padding:2px;}
+.sager{padding:5px;width:180px;height:280px;background-color:#FFFFFF;border:5px solid #4E2614;margin-bottom:40px;}
+.sager img{padding:0px;width:180px;height:120px;margin-bottom:6px;}
+.sager h2{padding:4px;text-align:center;font-weight:bold;font-size:17px;}
+.sager h5{padding:5px;text-align:center;font-weight:bold;margin-bottom:10px;}
+.sager h3{padding:5px;text-align:center;}
+.sager a{text-decoration:none;background-color:#E38F32;font-size:18px;padding:5px;border:2px solid #4E2614;color:white;}
+.sager h3 a:hover{background-color:#B7661A;}
+
+table.table {
+    width: 100%;
+    border: 1px solid #D0D0D0;
+	
+}
+table.table th{text-align:center;color:orange;font-size:20px;font-weight:bold;}
+td.t-data {
+    border: 1px solid #D2D2D2;
+	text-align:center;
+	color:black;
+    padding: 5px !important;
+	vertical-align: middle !important;
+	font-size: 1em !important;
+}
+td.t-data a{text-decoration:none;padding:5px;background-color:red;color:white;font-weight:bold;border-radius:5px;}
+th.t-head {
+	background: #F1F1F1;
+    color: #4E2614;
+    font-size: 1em !important;
+    padding: 0.6em !important;
+    border: 1px solid #D2D2D2 !important;
+}
+
+a.at-in {
+  float: left;
+}
+a.at-in{
+	border:1px solid #DADADA;
+	padding:1em 0;
+	margin-left: 11%;
+}
+.cartpage{padding:5px;margin-top:100px;}
+.cartitembutton a{color:white;text-decoration:none;font-weight:bold;background:orange;text-align:center;padding:10px;border-radius:2px;border:2px solid #C8A067;}
+.shopping{padding:5px;}
+.shopleft{padding-left:100px;margin-bottom:10px;}
+
+/*
+payment css
+*/
+.main{padding:10px;margin-top:40px;margin-bottom:50px;}
+.payment{width: 1000px;min-height: 200px;text-align: center;border: 1px solid #ddd;margin: 0 auto; padding: 50px;}
+ .payment h2{
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 40px;
+        padding-bottom: 20px;
+		color:#6D1706;
+		margin-bottom:30px;
+		font-weight:bold;
+	
+    }
+.payment a{
+	 margin-left:10px;
+     background: #C8A067 none repeat scroll 0 0;
+     border-radius: 10px;
+     color: white;
+     font-size: 20px;
+	 padding:10px;
+
+    }
+.back{
+        width: 150px;margin: 5px auto;padding-bottom: 4px;text-align: center;display: block;border: 1px dotted #333; border-radius: 10px;margin-top:30px;background-color:#4E2614;font-weight:bold;padding:5px;
+		
+    }
+	.back a{color:white;text-decoration:none;}
+/*
+admin footerc css style
+*/
+
